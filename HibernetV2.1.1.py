@@ -33,7 +33,7 @@ print('''
   hh   hh  iii  bbbbbbb  eeeeeee  rr    rr  nnnn  nnnn  eeeeeee     ttt
 
 
-							C0d3d by All3xJ
+							C0d3d by Flukzaza1996
 	''') # la grafica ci sta
 
 useragents=["Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
